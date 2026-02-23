@@ -1,5 +1,6 @@
 # React Sandbox 2026
-Experimenting with React by following the ZTM React course: https://zerotomastery.io/courses/learn-react/
+
+Refreshing my React knowledge by following the ZTM React course: https://zerotomastery.io/courses/learn-react/
 
 # React + Vite
 
